@@ -5,10 +5,9 @@
     <title>exercise #4</title>
 </head>
 <body>
-    <conter><form style="width: 50%;">
+<form style="width: 50%;">
 
-<fieldset style="background-color: #bde6d1" style="align-items: center;">
-    <legend>Personal details</legend><br>
+    <center><form style="width:30%"> <fieldset align="center" style="background-color: #f9f4c4" ><legend>Personal details</legend><br>
 <pre><a>Username</a> <input type="text" name="Username"></pre> 
 <pre><a>Password</a> <input type="password" name="password"></pre>
 <pre><a>Email</a> <input type="email" name="Email"></pre>
@@ -31,5 +30,5 @@
 <fieldset>
     <button type="submit"> Subscribe</button>
 </fieldset>
-</form></conter>
+</form>
 </body>
